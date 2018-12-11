@@ -1,0 +1,11 @@
+.white-text {
+    color: white !important;
+}
+
+.error {
+    color: tomato;
+}
+
+.hidden {
+    display: none;
+}

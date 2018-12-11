@@ -1,0 +1,145 @@
+
+/* 
+    Created on : 20/11/2018, 00:49:30
+    Author     : Erickson
+*/
+
+/* ----------------------------------------------------------------------------------------- */
+.cor_de_fundo{
+    background-color: #e41c1c !important;
+    font-weight: bold;
+    margin-top: 5px;
+
+}
+.cor_de_fundo2{
+    background-color: #e41c1c !important;
+    font-weight: bold;
+    margin: 2px;
+    
+    border: 1px solid rgb(49, 0, 0);
+}
+#configuracao h1{
+    padding: 0px;
+    padding-bottom: 3px;
+    margin: 0px;
+    font-size: 150%;
+    text-align: center;
+    color: #ffffff !important;
+}
+#configuracao a{
+    font-size: 16px;
+    border: 1px solid rgb(49, 0, 0);
+    margin: 5px;
+    padding: 5px;
+    padding-bottom: 0px;
+    background: #6d0a0a;
+}
+#configuracao{
+    border: 1px solid rgb(49, 0, 0);
+    margin: 0px;
+    padding: 3px;
+} 
+#paginaL{
+    width: 100%;
+    background: #222;
+    margin-top: 4.9%;
+    height: 100%;
+    color: #e5e5e5;
+    border: 1px solid #222;
+    
+}
+#panel{
+    margin-top: 5%;
+    height: 100%;
+    
+}
+#conteudo{
+    margin-top: 4%;
+    width: 80%;
+    margin: 0 auto;
+    height: 100%;  
+}
+#minmenu{
+    margin: 0 auto !important;
+    width: 27%;
+    margin-bottom: 1% !important;
+    
+}
+.centraliza_texto{
+    text-align: center;
+}
+.estilo{
+    color: red;
+    font-weight: bold;
+}
+.diminuir_ul{
+    width: 60% !important;
+    color: black;
+}
+.diminuir_ul2{
+    width: 20% !important;
+    color: black;
+}
+.borda{
+    border: 1px solid red;
+}
+.tamaho{
+    width: 30% !important;
+}
+.table_background  {
+   background-color:#E6E6E6 !important;
+    color: #151515; 
+}
+.table_background  :hover{
+    background-color:#f7f7f7 !important;
+    color: #151515;
+}
+.btn_me{
+    padding: 8% 12% 8% 12% !important;
+}
+.asfasta_direita{
+    margin-right: 1% !important;
+}
+.favb{
+    width: 48%;
+    margin: 0 auto;
+    margin-right: 1.3%;
+    margin-bottom: 1.3px;
+    float: left;
+    margin-top: 1%;
+}
+.fa2{
+    
+   width: 48%;
+    margin: 0 auto;
+    margin-right:2.2%;
+    margin-bottom: 1.3px;
+    float: right;
+
+    
+}
+.fa3{
+    
+   width: 48%;
+    margin: 0 auto;
+    margin-right:2.2%;
+    margin-bottom: 1.3px;
+    float: right;
+    margin-top: 1%;
+    
+}
+.core{
+    color:black;
+    font-style: normal;
+    font-family: sans-serif;
+}
+.wesd{
+    width: 20%;
+    float: left;
+}
+.mudafot{
+    font-size:  10px;
+    font-weight: bold;
+}
+
+
